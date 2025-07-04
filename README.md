@@ -84,7 +84,7 @@ Designed as a **collaborative portfolio project**, NEXORA AI demonstrates real-t
 
 ## 👥 Team Members
 
- **Dolly Gupta**
+- **Dolly Gupta**
 - **Satyam Kumar**  
 
 We collaborated on the design, development, and integration of this chatbot as part of our final-year portfolio.
